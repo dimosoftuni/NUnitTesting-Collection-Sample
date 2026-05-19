@@ -8,6 +8,7 @@ namespace Collection.UnitTests
         public void Test1()
         {
             Assert.Pass();
+            // this is some comment
         }
     }
 }
